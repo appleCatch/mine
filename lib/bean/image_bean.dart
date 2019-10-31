@@ -1,0 +1,3 @@
+class ImageBean {
+  String imageUrl;
+}
